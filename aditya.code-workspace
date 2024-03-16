@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/css"
+		},
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/fonts"
+		},
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/images"
+		},
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/js"
+		},
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/lib"
+		},
+		{
+			"path": "../../../Documents/GitHub/aditya-khaire/scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
